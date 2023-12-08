@@ -23,3 +23,13 @@ Don't know what to eat? Use 'RandomFood' to generate three meals for you today!
 ## Recipe api used in the app
 
 [TheMealDB](https://www.themealdb.com/)
+
+## Screenshot of the project
+
+### Main page 
+![main page](./assets/main-page.png)
+### Check detail of the recipe
+![Detail of recipe](./assets//check-detail.png)
+
+## Existing bugs that could be addressed in the future
+1. When the recipe texts are too long, the check detail modal could cover the whole page and prevent users from interacting well
